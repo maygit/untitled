@@ -51,4 +51,5 @@ public class UserHandler {
         return "success";
     }
 
+    public void test(){}
 }
