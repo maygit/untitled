@@ -50,4 +50,5 @@ public class UserHandler {
         service.reg(user);
         return "success";
     }
+
 }
